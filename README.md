@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains meta annotated case studies on Ilya Sutskever's ~30 research resource recommendations to John Carmack (papers, blogs, websites, etc.) to learn about Artificial Intelligence.
+This repository contains meta annotations and case studies on Ilya Sutskever's ~30 research resource recommendations to John Carmack (papers, blogs, websites, etc.) to learn about Artificial Intelligence.
 
 ## Original Link
 
