@@ -3,39 +3,61 @@
 
 ## Introduction
 
-This repository contains meta annotations and case studies on Ilya Sutskever's ~30 research resource recommendations to John Carmack (papers, blogs, websites, etc.) to learn about Artificial Intelligence.
+This repository contains meta annotations and case studies on Ilya Sutskever's ~30 research resource recommendations to John Carmack (papers, blogs, websites, etc.) to learn about Artificial Intelligence. We interpretively breakdown these papers with meta annotations. 
 
 ## Original Link
 
 - [Ilya 30u30 arc.net folder](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 - [Ilya 30u30 folder - archive.today](https://archive.is/aciJR)
 
-## Resources List
+# Understanding Current AI Developments
 
-- [The Annotated Transformer — blog](https://nlp.seas.harvard.edu/annotated-transformer/)
-- [The First Law of Complexodynamics — blog](https://scottaaronson.blog/?p=762)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks — (Andrej Karpathy blog)](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-- [Understanding LSTM Networks – colah’s blog — blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Recurrent Neural Network Regularization — arxiv.org](https://arxiv.org/pdf/1409.2329.pdf)
-- [Keeping NN Simple by Minimizing the Description Legnth of the Weights — PDF](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)
-- [Pointer Networks — arxiv.org](https://arxiv.org/pdf/1506.03134.pdf)
-- [ImageNet Classification with Deep Convolutional Neural Networks — PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-- [Order Matters: Sequence to sequence for sets — arxiv.org](https://arxiv.org/pdf/1511.06391.pdf)
-- [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism — arxiv.org](https://arxiv.org/pdf/1811.06965.pdf)
-- [Deep Residual Learning for Image Recognition — arxiv.org](https://arxiv.org/pdf/1512.03385.pdf)
-- [Multi-Scale Context Aggregation by Dilated Convolutions — arxiv.org](https://arxiv.org/pdf/1511.07122.pdf)
-- [Neural Message Passing for Quantum Chemistry — arxiv.org](https://arxiv.org/pdf/1704.01212.pdf)
-- [Attention Is All You Need — arxiv.org](https://arxiv.org/pdf/1706.03762.pdf)
-- [Neural Machine Translation by Jointly Learning to Align and Translate — arxiv.org](https://arxiv.org/pdf/1409.0473.pdf)
-- [Identity Mappings in Deep Residual Networks — arxiv.org](https://arxiv.org/pdf/1603.05027.pdf)
-- [A simple neural network module for relational reasoning — arxiv.org](https://arxiv.org/pdf/1706.01427.pdf)
-- [Variational Lossy Autoencoder — arxiv.org](https://arxiv.org/pdf/1611.02731.pdf)
-- [Relational recurrent neural networks — arxiv.org](https://arxiv.org/pdf/1806.01822.pdf)
-- [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton — arxiv.org](https://arxiv.org/pdf/1405.6903.pdf)
-- [Neural Turing Machines — arxiv.org](https://arxiv.org/pdf/1410.5401.pdf)
-- [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin — arxiv.org](https://arxiv.org/pdf/1512.02595.pdf)
-- [Scaling Laws for Neural Language Models — arxiv.org](https://arxiv.org/pdf/2001.08361.pdf)
-- [A tutorial introduction to the minimum description length principle — arxiv.org](https://arxiv.org/pdf/math/0406077.pdf)
-- [Machine Super Intelligence by Shane Legg | BookVersion.dvi — book](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
-- [Kolmogorov Complexity and Algorithmic Randomness | lirmm.fr — book](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf)
-- [CS231n Convolutional Neural Networks for Visual Recognition — course](https://cs231n.github.io/)
+This repository is dedicated to those who wish to grasp the fundamentals of AI. The resources compiled and studied here here are based on the recommendations of Ilya Sutskever, a leading figure in the AI research community and co-founder of OpenAI. By studying and understanding the papers as well as research annotations listed in this repository, you will gain a comprehensive understanding of the current state of artificial intelligence, including its foundational theories, key breakthroughs, and practical applications.
+
+## Overview
+
+Artificial Intelligence (AI) is an ever-evolving field, with continuous advancements shaping the technology landscape. To keep pace with these developments, it is crucial to study seminal papers that have significantly contributed to the growth and understanding of AI. This repository aims to provide a curated list of such papers and their interpretations, covering various aspects of AI including machine learning, neural networks, natural language processing, and more.
+
+## Why These Papers?
+
+Ilya Sutskever, a renowned AI researcher, has recommended a selection of papers that are essential for anyone looking to understand the current landscape of AI. These papers not only cover fundamental concepts but also go into the latest advancements and innovations. By thoroughly studying these papers and reviewing the meta annotations, you will build a strong foundation in AI and be well-equipped to contribute to future developments in the field.
+
+## How to Use This Repository
+
+1. **Start with the Basics**: Begin with the foundational papers to build your understanding of core AI concepts.
+2. **Progress to Advanced Topics**: Move on to more advanced papers that explore cutting-edge research and applications.
+3. **Engage with the Community**: Join discussions, contribute to the repository, and share your insights with others.
+
+
+
+## Recommended Papers
+
+| #  | Title                                                                                  | Link                                                                                               |
+|----|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1  | The Annotated Transformer                                                              | [Link](https://nlp.seas.harvard.edu/annotated-transformer/)                                        |
+| 2  | Recurrent Neural Network Regularization                                                | [Link](https://arxiv.org/pdf/1409.2329)                                                            |
+| 3  | Pointer Networks                                                                        | [Link](https://arxiv.org/pdf/1506.03134)                                                           |
+| 4  | Order Matters: Sequence to Sequence for Sets                                           | [Link](https://arxiv.org/pdf/1511.06391)                                                           |
+| 5  | GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism                               | [Link](https://arxiv.org/pdf/1811.06965)                                                           |
+| 6  | Deep Residual Learning for Image Recognition                                            | [Link](https://arxiv.org/pdf/1512.03385)                                                           |
+| 7  | Multi-Scale Context Aggregation by Dilated Convolutions                                 | [Link](https://arxiv.org/pdf/1511.07122)                                                           |
+| 8  | Neural Message Passing for Quantum Chemistry                                            | [Link](https://arxiv.org/pdf/1704.01212)                                                           |
+| 9  | Attention Is All You Need                                                               | [Link](https://arxiv.org/pdf/1706.03762)                                                           |
+| 10 | Neural Machine Translation by Jointly Learning to Align and Translate                   | [Link](https://arxiv.org/pdf/1409.0473)                                                            |
+| 11 | Identity Mappings in Deep Residual Networks                                             | [Link](https://arxiv.org/pdf/1603.05027)                                                           |
+| 12 | A Simple Neural Network Module for Relational Reasoning                                 | [Link](https://arxiv.org/pdf/1706.01427)                                                           |
+| 13 | Variational Lossy Autoencoder                                                           | [Link](https://arxiv.org/pdf/1611.02731)                                                           |
+| 14 | Relational Recurrent Neural Networks                                                    | [Link](https://arxiv.org/pdf/1806.01822)                                                           |
+| 15 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton     | [Link](https://arxiv.org/pdf/1405.6903)                                                            |
+| 16 | Neural Turing Machines                                                                  | [Link](https://arxiv.org/pdf/1410.5401)                                                            |
+| 17 | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin                    | [Link](https://arxiv.org/pdf/1512.02595)                                                           |
+| 18 | Scaling Laws for Neural Language Models                                                 | [Link](https://arxiv.org/pdf/2001.08361)                                                           |
+| 19 | A Tutorial Introduction to the Minimum Description Length Principle                     | [Link](https://arxiv.org/pdf/math/0406077)                                                         |
+| 20 | The First Law of Complexodynamics                                                       | [Link](https://scottaaronson.blog/?p=762)                                                          |
+| 21 | The Unreasonable Effectiveness of Recurrent Neural Networks                             | [Link](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)                                   |
+| 22 | Understanding LSTM Networks                                                             | [Link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)                                 |
+| 23 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights      | [Link](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf)                                         |
+| 24 | ImageNet Classification with Deep Convolutional Neural Networks                         | [Link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
+| 25 | Machine Super Intelligence                                                              | [Link](http://vetta.org/documents/Machine_Super_Intelligence.pdf)                                  |
+| 26 | Kolmogorov Complexity and Algorithmic Randomness                                        | [Link](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf)                                          |
+| 27 | CS231n: Convolutional Neural Networks for Visual Recognition                            | [Link](https://cs231n.github.io/)                                                                  |
